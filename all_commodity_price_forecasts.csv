@@ -1,0 +1,21 @@
+STATE,District Name,Market Name,Commodity,Forecast_Date,Predicted_Modal_Price
+Madhya Pradesh,sagar,Sagar(F&V),Onion,2025-06-22,951.81
+Madhya Pradesh,sagar,Sagar(F&V),Onion,2025-06-29,949.56
+Madhya Pradesh,sagar,Sagar(F&V),Onion,2025-07-06,957.06
+Madhya Pradesh,sagar,Sagar(F&V),Onion,2025-07-13,958.68
+Maharashtra,parbhani,Pathari,Wheat,2024-02-18,2237.69
+Maharashtra,parbhani,Pathari,Wheat,2024-02-25,2232.37
+Maharashtra,parbhani,Pathari,Wheat,2024-03-03,2236.11
+Maharashtra,parbhani,Pathari,Wheat,2024-03-10,2235.65
+Rajasthan,ajmer,Ajmer(F&V),Tomato,2023-11-19,1808.63
+Rajasthan,ajmer,Ajmer(F&V),Tomato,2023-11-26,1792.98
+Rajasthan,ajmer,Ajmer(F&V),Tomato,2023-12-03,1789.19
+Rajasthan,ajmer,Ajmer(F&V),Tomato,2023-12-10,1786.29
+Uttar Pradesh,bahraich,Naanpara,Potato,2025-06-22,1550.74
+Uttar Pradesh,bahraich,Naanpara,Potato,2025-06-29,1556.66
+Uttar Pradesh,bahraich,Naanpara,Potato,2025-07-06,1566.08
+Uttar Pradesh,bahraich,Naanpara,Potato,2025-07-13,1567.71
+Maharashtra,thane,Palghar,Rice,2025-06-15,4390.62
+Maharashtra,thane,Palghar,Rice,2025-06-22,4400.1
+Maharashtra,thane,Palghar,Rice,2025-06-29,4403.35
+Maharashtra,thane,Palghar,Rice,2025-07-06,4409.64
